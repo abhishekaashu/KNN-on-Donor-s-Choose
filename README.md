@@ -1,2 +1,2 @@
 # KNN-on-Donor-s-Choose
-Implimentation of Donor's Choose Dataset
+Implimentation of KNN on Donor's Choose Dataset
